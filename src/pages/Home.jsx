@@ -9,8 +9,6 @@ import FigmaProject from '../components/FigmaProject'
 
 import '../styles/Home.css'
 
-
-
 function Home() {
   return (
     <>

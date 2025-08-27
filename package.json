@@ -1,9 +1,9 @@
 {
+  "homepage": "https://zendhiyb.github.io/portfolio-r",
   "name": "test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://zendhiyb.github.io/portfolio-r/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
